@@ -1,1 +1,2 @@
-<b><marquee><p style=\"font-size:30\">" "<p style=\"color:green;\">MODDED By Nikita107r | Platinmods.com</p>
+<marquee style=\"color: green; font-weight:bold;\" direction=\"left\" scrollamount=\"5\" behavior=\"scroll\">Modded By <u>Nikita107r</u> | Platinmods.com</marquee>"
+                      "</body></html>
